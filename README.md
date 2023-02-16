@@ -1,20 +1,15 @@
-[![Kirill's GitHub Banner](./assets/label.png)]([https://braydoncoyer.dev](https://vk.com/im?peers=-177151353))
+[![Kirill's GitHub Banner](./assets/label.png)](https://vk.com/im?peers=-177151353)
 
 
-Hey there 👋
+<h1 align="center">Hey there, меня зовут <a href="https://my-movies.nomoredomains.work/" target="_blank">Кирилл</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">И я начинающий Data-Scientist</h3>
 
-Меня зовут Кирилл, я начинающий Data Scientist, развивающийся во всех направлениях данной области. 
+<h3 align="left">Sotf-skills</h3>
 
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
+**:1st_place_medal: Организаторские навыки и Лидерство:** Умею выступать в роли командного лидера, умение планировать, координировать и контролировать деятельность в проекте. <br>
+**:moyai: Ответственность и Самостоятельность:** Готов взять на себя ответственность за результаты проекта, умение анализировать ситуацию, формировать и принимать решения без помощи других. <br>
+**:two_men_holding_hands: Командная работа:** Умею эффективно сотрудничать с другими участниками проекта, кооперироваться и выстраивать взаимовыгодные отношения.
 
 ## 📌 Pinned Repositories
 
@@ -77,15 +72,3 @@ Hey there 👋
 ![](https://img.shields.io/badge/Visual-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=5d417a)
 
 </details>
-
-<br>
-
-## 📣 How about an Office quote before you go?
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
