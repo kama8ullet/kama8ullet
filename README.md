@@ -1,7 +1,11 @@
-[![Kirill's GitHub Banner](./assets/label.png)](https://vk.com/im?peers=-177151353)
+[![Kirill's GitHub Banner](./assets/label.png)](https://vk.com/sugarrr.daddy)
+
+[![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=twitter&logoColor=white&color=5d417a)](https://vk.com/sugarrr.daddy)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=Telegram&logoColor=white&color=5d417a)](https://t.me/kama8ullet)
+[![Mail Badge](https://img.shields.io/badge/Mail.ru-Profile-informational?style=flat&logo=Mail.ru&logoColor=white&color=5d417a)](mailto:kirill_vixrov@mail.ru")
 
 
-<h1 align="center">Hey there, меня зовут <a href="https://my-movies.nomoredomains.work/" target="_blank">Кирилл</a>
+<h1 align="center">Hey there, меня зовут Кирилл</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">И я начинающий Data-Scientist</h3>
 
